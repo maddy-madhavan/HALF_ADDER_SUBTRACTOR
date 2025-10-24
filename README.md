@@ -70,4 +70,5 @@ Developed by: RegisterNumber:24901129
 
 
 **Result:**
-thus the design of half adder and half subractor  circuit and verified and its truth table in quarts were given in verilog programming
+
+Thus the design of half adder and half subractor  circuit and verified and its truth table in quarts were given in verilog programming
